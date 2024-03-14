@@ -35,7 +35,3 @@ The execution times and the estimated European Call Option prices obtained from 
 ## Conclusion
 
 This comparative analysis highlights the importance of choosing the right tool for specific computational tasks in quantitative finance. While C++ leads in performance, Rust and F# present compelling advantages in safety, reliability, and development experience. This repository invites further exploration and optimization in each language to better understand and leverage their unique strengths.
-
-## License
-
-This project is open-sourced under the MIT License. See the LICENSE file for more details.
